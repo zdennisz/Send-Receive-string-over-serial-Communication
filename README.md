@@ -4,9 +4,16 @@
 
 This project was done in order to understand **Serial Communication**.
 
-Send and Recieve `string`s over serial communication by **converting** the `string` to `byte array`, **sending** it over the `com`, **catching** the `bytes` and **converting** them back to a `string`.
+Send and Recieve `string`'s over serial communication is done by:
 
-*:children_crossing: **Disclaimer**: In this project I have used* `Virtual Serial Port Driver` *to emulate the ports on my computer.*
+- **Converting** the `string` to `byte array`.
+
+- **Sending** it over the `com`.
+
+- **Catching** the `bytes` & **converting** them back to a `string`.
+
+<br/><br/>
+*:children_crossing: **Disclaimer**:* In this project I have used `Virtual Serial Port Driver` to emulate the ports on my computer.
 
 
 
