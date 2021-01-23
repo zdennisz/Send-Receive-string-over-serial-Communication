@@ -2,15 +2,15 @@
 
 # Send/Receive strings over Serial Communication
 
-This project was done in order to understand **Serial Communication**.
+This project was done in order to understand **Serial Communication**, written in `C#`.
 
 Send and Recieve `string`'s over serial communication is done by:
 
-- **Converting** the `string` to `byte array`.
+- Converting the `string` to `byte array`.
 
-- **Sending** it over the `com`.
+- Sending it over the `com`.
 
-- **Catching** the `bytes` & **converting** them back to a `string`.
+- Catching the `bytes` & converting them back to a `string`.
 
 <br/><br/>
 *:children_crossing: **Disclaimer**:* In this project I have used `Virtual Serial Port Driver` to emulate the ports on my computer.
